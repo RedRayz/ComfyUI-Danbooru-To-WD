@@ -3,9 +3,10 @@ name = "comfyui-danbooru-to-wd"
 description = "Converts danbooru tags to a format suitable for Waifu Diffusion(or Danbooru based models)."
 version = "1.0.0"
 license = "LICENSE"
+dependencies  = []
 
 [project.urls]
-Repository = ""
+Repository = "https://github.com/RedRayz/ComfyUI-Danbooru-To-WD"
 
 [tool.comfy]
 PublisherId = "redrayz"
