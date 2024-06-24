@@ -1,7 +1,9 @@
 # ComfyUI-Danbooru-To-WD
  Converts booru tags to a format suitable for Waifu Diffusion(or Danbooru based models).
  
- BooruタグをWaifu Diffusion(あるいはDanbooruベースのモデル)のフォーマットに変換するAUTOMATIC1111 Stable diffusion WebUIの拡張機能です。
+ BooruタグをWaifu Diffusion(あるいはDanbooruベースのモデル)のフォーマットに変換するComfyUIのCustom Nodesです。
+ 
+ ノードはutils->Danbooru To WDにあります。You can find the node in utils->Danbooru To WD
  
  Example: `1girl blonde_hair blue_eyes name_(copyright) upper_body` -> `1girl, blonde hair, blue eyes, name \(copyright\), upper body`
  
