@@ -2,7 +2,7 @@
 name = "comfyui-danbooru-to-wd"
 description = "Converts danbooru tags to a format suitable for Waifu Diffusion(or Danbooru based models)."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies  = []
 
 [project.urls]
