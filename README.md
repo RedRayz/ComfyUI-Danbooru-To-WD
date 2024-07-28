@@ -17,3 +17,6 @@
  booru_urlが指定されている場合はそちらが優先されます。
 
  booru_urlに指定されたURLが間違っているかサイトがjson以外を返すとエラーになります。
+
+## Notice
+ Pull requests are not accepted.
